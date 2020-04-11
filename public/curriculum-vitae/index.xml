@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum vitaes on Jelle Derksen</title>
+    <link>https://www.jellederksen.nl/curriculum-vitae/</link>
+    <description>Recent content in Curriculum vitaes on Jelle Derksen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Apr 2020 17:33:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.jellederksen.nl/curriculum-vitae/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Courses, workshops and talks</title>
+      <link>https://www.jellederksen.nl/curriculum-vitae/courses_workshops_and_talks/</link>
+      <pubDate>Thu, 09 Apr 2020 17:33:55 +0200</pubDate>
+      
+      <guid>https://www.jellederksen.nl/curriculum-vitae/courses_workshops_and_talks/</guid>
+      <description>Courses, workshops and, talks  2019 KPN Security: one-day Ansible course 2019 KPN Security: one-day FreeIPA course 2019 KPN Security: one-day Ansible course 2019 Qsight IT: three days &amp;ldquo;Linux command line LPI essentials&amp;rdquo; course 2018 Qsight IT: three days &amp;ldquo;Linux command line LPI essentials&amp;rdquo; course 2018 KPN Consulting: workshop DNSSEC 2017 T-DOSE: talk about OpenBSD PF 2017 AT Computing: talk about OpenBSD PF 2017 AT Computing: talk about IPSec 2016 AT Computing: talk about network security  </description>
+    </item>
+    
+    <item>
+      <title>CV Jelle Derksen in Dutch</title>
+      <link>https://www.jellederksen.nl/curriculum-vitae/cv_jelle_derksen_in_dutch/</link>
+      <pubDate>Thu, 09 Apr 2020 02:21:41 +0200</pubDate>
+      
+      <guid>https://www.jellederksen.nl/curriculum-vitae/cv_jelle_derksen_in_dutch/</guid>
+      <description>Profiel Als Red Hat Certified Architect ben ik gespecialiseerd in UNIX/Linux, security, netwerken, performance tuning en automation. Ik automatiseer graag complexe omgevingen en heb ruime ervaring met het geautomatiseerd deployen van software. Met mijn kennis van opensourcesoftware, help ik u graag om uw IT-infrastructuur te automatiseren en te beveiligen. Ik benader uw IT-omgeving als een software project en documenteer de broncode van uw infrastructuur uitvoerig.
+Beschikbaar voor freelance projecten vanaf mei 2020.</description>
+    </item>
+    
+    <item>
+      <title>CV Jelle Derksen in English</title>
+      <link>https://www.jellederksen.nl/curriculum-vitae/cv_jelle_derksen_in_english/</link>
+      <pubDate>Thu, 09 Apr 2020 02:21:41 +0200</pubDate>
+      
+      <guid>https://www.jellederksen.nl/curriculum-vitae/cv_jelle_derksen_in_english/</guid>
+      <description>Profile As a Red Hat Certified Architect, I&amp;rsquo;m specialized in UNIX/Linux, security, performance tuning, and automation. I have ample experience with complex environments and automating the deployment of software. With my knowledge of open source software, I can help you automate and secure your IT environment. I approach your IT environment as a software project and document the source code of your infrastructure extensively.
+Available for a new project in May 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

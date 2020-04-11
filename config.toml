@@ -1,0 +1,61 @@
+baseurl = "https://www.jellederksen.nl"
+title = "Jelle Derksen"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Jelle Derksen"
+    info = "Freelance UNIX/Linux engineer"
+    description = "Blog about UNIX/Linux, automation and programming"
+    keywords = "blog,Linux,Unix,personal"
+    avatarurl = "images/jelle_derksen_profile_picture.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Derksen Computing"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/jellederksen"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/jellederksen"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://nl.linkedin.com/in/jelle-derksen-953149b3?trk=people-guest_people_search-card"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "Curriculum Vitae"
+    weight = 2
+    url = "/curriculum vitae/"
